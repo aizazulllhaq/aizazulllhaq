@@ -1,10 +1,8 @@
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/007/213/352/non_2x/graphics-design-illustration-digital-circuit-with-binary-coded-decimal-diagram-technology-for-background-wallpaper-illustration-free-vector.jpg)](https://www.linkedin.com/in/iamaizazulhaq)
+
 <h1 align="center">Hi 👋, I'm Aizaz Ul Haq</h1>
 <h3 align="center">A Passionate MERN Stack Developer | Backend Enthusiast | Python Aficionado | Web Security Testing Advocate</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aizazulllhaq&label=Profile%20views&color=0e75b6&style=flat" alt="aizazulllhaq" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aizazulllhaq" alt="aizazulllhaq" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
 - 🔭 I’m currently working on **AES**
 
