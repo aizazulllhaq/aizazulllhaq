@@ -1,5 +1,3 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/007/213/352/non_2x/graphics-design-illustration-digital-circuit-with-binary-coded-decimal-diagram-technology-for-background-wallpaper-illustration-free-vector.jpg)](https://www.linkedin.com/in/iamaizazulhaq)
-
 <h1 align="center">Hi 👋, I'm Aizaz Ul Haq</h1>
 <h3 align="center">A Passionate MERN Stack Developer | Backend Enthusiast | Python Aficionado | Web Security Testing Advocate</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
