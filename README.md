@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aizaz Ul Haq</h1>
-<h3 align="center">A Passionate MERN Stack Developer | Backend Developer | Python | Web Security Testing Advocate</h3>
+<h3 align="center">A Passionate MERN Stack Developer | Backend Developer | Python | Web Security Testing </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
 - 🔭 I’m currently working on **AES**
