@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aizaz Ul Haq</h1>
-<h3 align="center">A Passionate MERN Stack Developer | Backend Developer | Python | Web Security Testing </h3>
+<h3 align="center">A JavaScript Developer passionate in ( Reactjs, Nodejs, Mongodb, Expressjs ) </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
 - 🔭 I’m currently working on **AES**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **AI Agents**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 📝 I regularly share content on [LinkedIn , Instagram , Facebook , Twitter](LinkedIn , Instagram , Facebook , Twitter)
 
-- 💬 Ask me about **MERN , Bash Scripting , Python**
+- 💬 Ask me about **JavaScript , Frontend ( Reactjs )  , Backend ( Nodejs, Expressjs ) **
 
 - 📫 How to reach me **aizazulhaqdev@gmail.com**
 
