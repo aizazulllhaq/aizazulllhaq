@@ -2,7 +2,7 @@
 <h3 align="center">A JavaScript Developer passionate in ( Reactjs, Nodejs, Mongodb, Expressjs ) </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
-- 🔭 I’m currently working on **AES**
+- 🔭 I’m currently working as a **Full Stack Engineer**
 
 - 🌱 I’m currently learning **AI Agents**
 
